@@ -1,0 +1,30 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    font-family: arial;
+}
+
+body {
+    width: 100vw;
+    height: 100vh;
+    background: #272727;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.div {
+    width: 40%;
+    height: 50%;
+    background: rgb(255, 255, 255);
+    border-radius: 15px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+p {
+    user-select: none;
+    text-transform: uppercase;
+}
