@@ -1,6 +1,6 @@
 🎨🔢🌈 Random Color Generator 🔢🌈🎨
 
-🔗https://ixroy13.github.io/color-generator/🔗
+🔗https://ixroy13.github.io/color-generator/ 🔗
 
 📝 Project Description:
 This is a website that generates a random color and displays its hex code.
